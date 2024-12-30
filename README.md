@@ -3,6 +3,7 @@
 ## **Overview**
 This project integrates state-of-the-art Large Language Models (LLMs) into an ERP system for project planning and scheduling. By leveraging advanced AI capabilities, the system enhances predictive scheduling, resource optimization, and risk assessment, providing actionable insights based on historical data, resource availability, and project complexity.
 
+https://github.com/ThiruDeepak2311/Erp_LLM/blob/main/demo.mp4
 ---
 
 ## **Features**
