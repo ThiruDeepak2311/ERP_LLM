@@ -3,6 +3,8 @@
 ## **Overview**
 This project integrates state-of-the-art Large Language Models (LLMs) into an ERP system for project planning and scheduling. By leveraging advanced AI capabilities, the system enhances predictive scheduling, resource optimization, and risk assessment, providing actionable insights based on historical data, resource availability, and project complexity.
 
+https://private-user-images.githubusercontent.com/116452492/399225664-0e055a31-d4f9-4792-aaf0-736f39f24284.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1Mzk3MjksIm5iZiI6MTczNTUzOTQyOSwicGF0aCI6Ii8xMTY0NTI0OTIvMzk5MjI1NjY0LTBlMDU1YTMxLWQ0ZjktNDc5Mi1hYWYwLTczNmYzOWYyNDI4NC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIzMFQwNjE3MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZWRmMmU0ZWIyYzQyN2UxZDZmNWFhOTBlODcyOThkYzMzMGU5ZjMwZjI2ZGY1ZGRjYWRjYjE3MjkwYjMyYWU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._D-8tsUoljHBGgByPt1i0vuzy-Jf2RxbNF0KisD2dw8
+
 ---
 
 ## **Features**
