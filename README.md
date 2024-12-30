@@ -146,16 +146,3 @@ cd ERP_LLM
 4. Develop a mobile-friendly interface.
 
 ---
-
-## **Credits**
-- **Frontend Development**: React team contributions
-- **Backend Development**: Flask and Python community
-- **LLM Integration**: Cohere API
-
----
-
-## **Contact**
-For questions or contributions, reach out to:
-- **Email**: your_email@example.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your_username)
-
