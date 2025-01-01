@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Initialize Cohere Client
-cohere_client = cohere.Client("ywT0FSzhxN4IrGCXuiKN1HepdROguDV5d3RwGBuE")  # Replace with your Cohere API key
+cohere_client = cohere.Client("your_cohere_api_key")  # Replace with your Cohere API key
 
 # Load historical data
 data_path = "env/data.csv"  # Ensure this file exists
